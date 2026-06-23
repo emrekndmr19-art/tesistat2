@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dmtesisatdirekt.com/sitemap.xml
+Sitemap: https://fdtesisat.com/sitemap.xml
